@@ -1,4 +1,4 @@
 # Neural networks for solving differential equations
 
-Examples are from: 
+Reimplemented Examples from: 
 I. E. Lagaris (1997) Artificial Neural Networks for Solving Ordinary and Partial Differential Equations. 
